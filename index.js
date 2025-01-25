@@ -8,11 +8,11 @@ dotenv.config();
 
 // enabling cors
 const cors = require('cors');
-app.use(cors({
-    origin: ['http://localhost:5173', 'https://swissnote-ass-backend.onrender.com'],
+app.use(cors( {
+    origin: 'https://swissnote-ass-frontend.vercel.app/',
     credentials: true,
-
-}));
+}
+));
 // parse to json
 app.use(express.json())
 
