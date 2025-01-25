@@ -23,7 +23,6 @@ Backend service for the SwissNote Assignment, providing robust API endpoints for
 - **Backend:** Node.js/Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT
-- **Validation:** Joi/Express Validator
 
 ## Prerequisites
 - Node.js (v14+)
