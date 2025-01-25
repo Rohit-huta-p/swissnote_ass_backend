@@ -9,7 +9,7 @@ dotenv.config();
 // enabling cors
 const cors = require('cors');
 app.use(cors( {
-    origin: 'https://swissnote-ass-frontend.vercel.app/',
+    origin: 'https://swissnote-ass-frontend.vercel.app',
     credentials: true,
 }
 ));
