@@ -17,7 +17,7 @@ Backend service for the SwissNote Assignment, providing robust API endpoints for
 - Read/list events
 - Update event details
 - Delete events
-- Book/unbook events
+- Book events
 
 ## Tech Stack
 - **Backend:** Node.js/Express.js
@@ -58,10 +58,9 @@ Backend service for the SwissNote Assignment, providing robust API endpoints for
    ```
 
 ## API Endpoints
-- `/api/auth/register`
-- `/api/auth/login`
-- `/api/events`
-- `/api/events/:id`
+- `/api/user/signup`
+- `/api/user/login`
+- `/api/event.`
 
 ## Environment Configuration
 - `MONGODB_URI`: MongoDB connection string
@@ -73,20 +72,8 @@ Backend service for the SwissNote Assignment, providing robust API endpoints for
 npm test
 ```
 
-## Deployment
-Deployable on Heroku, DigitalOcean, or similar platforms
-
-## Contributing
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create pull request
-
-## License
-MIT License
 
 ## Contact
-[Your Name] - [Your Email]
+[Rphit Hutagonna] - [vcrohithuta.p@gmail.com]
 
-Project Link: [Backend Repository URL]
+Project Link: [https://github.com/Rohit-huta-p/swissnote_ass_backend]
