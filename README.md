@@ -3,7 +3,7 @@
 Backend service for the SwissNote Assignment, providing robust API endpoints for event management and user authentication.
 
 ## Deployed Link
-[SwissNote Backend API](your-backend-deployment-url)
+[SwissNote Backend API](https://swissnote-ass-backend.onrender.com)
 
 ## Features
 ### 1. Authentication Endpoints
